@@ -1,23 +1,26 @@
-Test Plan for OpenCart Website
-1. Introduction
+**Test Plan for OpenCart Website**
+**1. Introduction**
 This test plan defines the testing strategy, scope, and objectives for manual testing of the OpenCart website. OpenCart is an open-source e-commerce platform that provides features for user management, product browsing, cart functionality, and checkout processes.
 
-2. Objectives
+**2. Objectives**
 Verify the core functionality of OpenCart's features, such as product browsing, adding/removing items from the cart, checkout, and order placement.
 Validate the UI/UX for design consistency, responsiveness, and user experience.
 Test cross-browser and cross-device compatibility.
 Identify bugs and issues to ensure quality.
-3. Scope of Testing
+
+**3. Scope of Testing**
 Functional Testing: Core functionalities like user registration, login, product catalog, and cart management.
 UI/UX Testing: Ensuring intuitive and responsive design across different devices.
 Cross-Browser Testing: Compatibility on various browsers (Chrome, Firefox, Edge, Safari, etc.).
 Performance Testing: Validate page load times and responsiveness.
 Regression Testing: Test existing functionalities after bug fixes.
-4. Test Approach
+
+**4. Test Approach**
 Perform manual testing by simulating user scenarios on OpenCart's platform.
 Document issues systematically using a standard bug reporting template.
 Retest resolved issues to ensure they don’t introduce new bugs.
-5. Test Environment
+
+**5. Test Environment**
 Browsers: Chrome, Firefox, Edge, Safari.
 Devices: Android, iOS, Windows, macOS.
 Tools: BrowserStack or local devices for cross-browser/device testing.
