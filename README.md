@@ -1,4 +1,5 @@
 **Test Plan for OpenCart Website**
+
 **1. Introduction**
 This test plan defines the testing strategy, scope, and objectives for manual testing of the OpenCart website. OpenCart is an open-source e-commerce platform that provides features for user management, product browsing, cart functionality, and checkout processes.
 
